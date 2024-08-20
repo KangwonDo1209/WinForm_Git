@@ -1,0 +1,17 @@
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\bin\Debug\net8.0-windows\Search_Weather.exe
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\bin\Debug\net8.0-windows\Search_Weather.deps.json
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\bin\Debug\net8.0-windows\Search_Weather.runtimeconfig.json
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\bin\Debug\net8.0-windows\Search_Weather.dll
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\bin\Debug\net8.0-windows\Search_Weather.pdb
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\obj\Debug\net8.0-windows\Search_Weather.Form1.resources
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\obj\Debug\net8.0-windows\Search_Weather.csproj.GenerateResource.cache
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\obj\Debug\net8.0-windows\Search_Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\obj\Debug\net8.0-windows\Search_Weather.AssemblyInfoInputs.cache
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\obj\Debug\net8.0-windows\Search_Weather.AssemblyInfo.cs
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\obj\Debug\net8.0-windows\Search_Weather.csproj.CoreCompileInputs.cache
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\obj\Debug\net8.0-windows\Search_Weather.sourcelink.json
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\obj\Debug\net8.0-windows\Search_Weather.dll
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\obj\Debug\net8.0-windows\refint\Search_Weather.dll
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\obj\Debug\net8.0-windows\Search_Weather.pdb
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\obj\Debug\net8.0-windows\Search_Weather.genruntimeconfig.cache
+C:\Users\HelloWorld\Desktop\HelloWorld\C#\WinForm_Git\Search_Weather\obj\Debug\net8.0-windows\ref\Search_Weather.dll
