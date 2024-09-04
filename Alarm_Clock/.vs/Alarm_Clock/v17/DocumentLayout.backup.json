@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ehqhd\\Desktop\\HelloWorld\\C#\\Project\\WinForm_Git\\Alarm_Clock\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3A7AB78-0E25-4E65-BD6F-0C0BE0F082CB}|Alarm_Clock.csproj|c:\\users\\ehqhd\\desktop\\helloworld\\c#\\project\\winform_git\\alarm_clock\\alarm_clock.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{F3A7AB78-0E25-4E65-BD6F-0C0BE0F082CB}|Alarm_Clock.csproj|solutionrelative:alarm_clock.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F3A7AB78-0E25-4E65-BD6F-0C0BE0F082CB}|Alarm_Clock.csproj|c:\\users\\ehqhd\\desktop\\helloworld\\c#\\project\\winform_git\\alarm_clock\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3A7AB78-0E25-4E65-BD6F-0C0BE0F082CB}|Alarm_Clock.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3A7AB78-0E25-4E65-BD6F-0C0BE0F082CB}|Alarm_Clock.csproj|C:\\Users\\ehqhd\\Desktop\\HelloWorld\\C#\\Project\\WinForm_Git\\Alarm_Clock\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F3A7AB78-0E25-4E65-BD6F-0C0BE0F082CB}|Alarm_Clock.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F3A7AB78-0E25-4E65-BD6F-0C0BE0F082CB}|Alarm_Clock.csproj|c:\\users\\ehqhd\\desktop\\helloworld\\c#\\project\\winform_git\\alarm_clock\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3A7AB78-0E25-4E65-BD6F-0C0BE0F082CB}|Alarm_Clock.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A7AB78-0E25-4E65-BD6F-0C0BE0F082CB}|Alarm_Clock.csproj|c:\\users\\ehqhd\\desktop\\helloworld\\c#\\project\\winform_git\\alarm_clock\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3A7AB78-0E25-4E65-BD6F-0C0BE0F082CB}|Alarm_Clock.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,38 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Alarm_Clock",
-              "DocumentMoniker": "C:\\Users\\ehqhd\\Desktop\\HelloWorld\\C#\\Project\\WinForm_Git\\Alarm_Clock\\Alarm_Clock.csproj",
-              "RelativeDocumentMoniker": "Alarm_Clock.csproj",
-              "ToolTip": "C:\\Users\\ehqhd\\Desktop\\HelloWorld\\C#\\Project\\WinForm_Git\\Alarm_Clock\\Alarm_Clock.csproj",
-              "RelativeToolTip": "Alarm_Clock.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-22T08:51:40.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ehqhd\\Desktop\\HelloWorld\\C#\\Project\\WinForm_Git\\Alarm_Clock\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
               "ToolTip": "C:\\Users\\ehqhd\\Desktop\\HelloWorld\\C#\\Project\\WinForm_Git\\Alarm_Clock\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAwwBYAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAADwvxkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T07:26:53.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ehqhd\\Desktop\\HelloWorld\\C#\\Project\\WinForm_Git\\Alarm_Clock\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\ehqhd\\Desktop\\HelloWorld\\C#\\Project\\WinForm_Git\\Alarm_Clock\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAQwBwAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAA2wC8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T16:43:38.458Z",
               "EditorCaption": ""

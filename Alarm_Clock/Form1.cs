@@ -36,6 +36,11 @@ namespace Alarm_Clock
 		private void PlayAlarmSound()
 		{
 			string path = @"AlarmSound.mp3";
+			this.TopMost = true;
+			this.BringToFront();
+			this.Activate();
+			this.WindowState = FormWindowState.Normal;
+			this.Focus();
 			if (File.Exists(path))
 			{
 				player.URL = path;

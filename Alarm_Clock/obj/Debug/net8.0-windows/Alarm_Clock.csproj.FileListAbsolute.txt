@@ -17,3 +17,8 @@ C:\Users\ehqhd\Desktop\HelloWorld\C#\Project\WinForm_Git\Alarm_Clock\obj\Debug\n
 C:\Users\ehqhd\Desktop\HelloWorld\C#\Project\WinForm_Git\Alarm_Clock\obj\Debug\net8.0-windows\ref\Alarm_Clock.dll
 C:\Users\ehqhd\Desktop\HelloWorld\C#\Project\WinForm_Git\Alarm_Clock\obj\Debug\net8.0-windows\Interop.WMPLib.dll
 C:\Users\ehqhd\Desktop\HelloWorld\C#\Project\WinForm_Git\Alarm_Clock\obj\Debug\net8.0-windows\Alarm_Clock.csproj.ResolveComReference.cache
+C:\Users\ehqhd\Desktop\HelloWorld\C#\App\알람시계\Debug\net8.0-windows\Alarm_Clock.exe
+C:\Users\ehqhd\Desktop\HelloWorld\C#\App\알람시계\Debug\net8.0-windows\Alarm_Clock.deps.json
+C:\Users\ehqhd\Desktop\HelloWorld\C#\App\알람시계\Debug\net8.0-windows\Alarm_Clock.runtimeconfig.json
+C:\Users\ehqhd\Desktop\HelloWorld\C#\App\알람시계\Debug\net8.0-windows\Alarm_Clock.dll
+C:\Users\ehqhd\Desktop\HelloWorld\C#\App\알람시계\Debug\net8.0-windows\Alarm_Clock.pdb
